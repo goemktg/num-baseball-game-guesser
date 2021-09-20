@@ -1,0 +1,21 @@
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe.config
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.pdb
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.exe
+C:\Users\USER\source\repos\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.pdb
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe.config
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.pdb
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csprojAssemblyReference.cache
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csproj.CoreCompileInputs.cache
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.exe
+C:\Users\samkt\OneDrive\repos\Visual Studio\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.pdb
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe.config
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.exe
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\bin\Debug\NumBaseballGameAI.pdb
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csprojAssemblyReference.cache
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.exe
+C:\Users\USER\source\Workspaces\작업 영역\Working\NumBaseballGameAI\NumBaseballGameAI\obj\Debug\NumBaseballGameAI.pdb
